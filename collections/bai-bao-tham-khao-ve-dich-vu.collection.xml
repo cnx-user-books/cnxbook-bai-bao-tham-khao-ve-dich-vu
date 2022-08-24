@@ -1,3 +1,18 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col10741</md:content-id>  <md:title>Bài báo tham khảo về dịch vụ </md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>vi</md:language>              <md:uuid>109e0f46-ec64-4846-9c8a-90f1e32737b2</md:uuid>
-<md:slug>bai-bao-tham-khao-ve-dich-vu</md:slug>
-</metadata>  <col:content>          <col:module document="m30059"/>                                          <col:subcollection>        <md:title>(Untitled)</md:title>                                <col:content>                  </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="NGUYEN VINH HA">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10741</md:content-id>
+    <md:title>B&#xE0;i b&#xE1;o tham kh&#x1EA3;o v&#x1EC1; d&#x1ECB;ch v&#x1EE5; </md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>vi</md:language>
+    <md:uuid>109e0f46-ec64-4846-9c8a-90f1e32737b2</md:uuid>
+    <md:slug>bai-bao-tham-khao-ve-dich-vu</md:slug>
+  </metadata>
+  <col:content>
+    <col:module document="m30059"/>
+    <col:subcollection>
+      <md:title>(Untitled)</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
